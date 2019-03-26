@@ -1,4 +1,4 @@
-# Kaggle_French_Dataset_Analysis
+# Kaggle_French_employment_by_town_Analysis
 This is an internship application tenical test which lasts for 5 days.
 There is no question given and I am required to explore the dataset on my own.
 
